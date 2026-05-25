@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-14 16:46+0000\n"
+"PO-Revision-Date: 2026-05-25 04:16+0000\n"
 "Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/screensaver-digitalclock/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.5\n"
 
 msgctxt "Addon Summary"
 msgid "Digital clock screensaver"
@@ -122,19 +122,19 @@ msgstr "05:14 PM"
 
 msgctxt "#32134"
 msgid "5:14 No hour zero padding Windows"
-msgstr ""
+msgstr "5:14 Без ведущего нуля часа Windows"
 
 msgctxt "#32135"
 msgid "5:14 PM No hour zero padding Windows"
-msgstr ""
+msgstr "5:14 PM Без ведущего нуля часа Windows"
 
 msgctxt "#32136"
 msgid "5:14 No hour zero padding Unix"
-msgstr ""
+msgstr "5:14 Без ведущего нуля часа Unix"
 
 msgctxt "#32137"
 msgid "5:14 PM No hour zero padding Unix"
-msgstr ""
+msgstr "5:14 PM Без ведущего нуля часа Unix"
 
 # empty strings from id 32138 to 32138
 msgctxt "#32139"
@@ -182,24 +182,24 @@ msgstr "Введите формат даты (Пустой = настройки 
 
 msgctxt "#32171"
 msgid "Day: d(1-31) dd(01-31) ddd(Mon-Sun) DDD(Monday-Sunday)"
-msgstr ""
+msgstr "День: d(1-31) dd(01-31) ddd(Пн-Вс) DDD(Понедельник-Воскресенье)"
 
 msgctxt "#32172"
 msgid "Month: m(1-12) mm(01-12) mmm(Jan-Dec) MMM(January-December)"
-msgstr ""
+msgstr "Месяц: m(1-12) mm(01-12) mmm(Янв-Дек) MMM(Январь-Декабрь)"
 
 msgctxt "#32173"
 msgid "Year: yy(2-digit year) yyyy(4-digit year)"
-msgstr ""
+msgstr "Год: yy(две цифры) yyyy(четыре цифры)"
 
 # empty strings from id 32174 to 32179
 msgctxt "#32180"
 msgid "17:14 No hour zero padding Windows"
-msgstr ""
+msgstr "17:14 Без ведущего нуля часа Windows"
 
 msgctxt "#32181"
 msgid "17:14 No hour zero padding Unix"
-msgstr ""
+msgstr "17:14 Без ведущего нуля часа Unix"
 
 # empty strings from id 32174 to 32199
 msgctxt "#32200"
@@ -222,11 +222,11 @@ msgstr "Показывать только сведения о музыке"
 
 msgctxt "#32222"
 msgid "This will hide all other info while the music is playing!"
-msgstr ""
+msgstr "Это скроет всю остальную информацию во время воспроизведения музыки!"
 
 msgctxt "#32223"
 msgid "Merge song artist and title"
-msgstr ""
+msgstr "Объединить исполнителя и название песни"
 
 # empty strings from id 32224 to 32229
 msgctxt "#32230"
@@ -261,7 +261,7 @@ msgstr "Набор значков 4"
 # empty strings from id 32246 to 32249
 msgctxt "#32250"
 msgid "Enable album art"
-msgstr ""
+msgstr "Включить обложки альбомов"
 
 # empty strings from id 32251 to 32259
 msgctxt "#32260"
@@ -278,15 +278,15 @@ msgstr "Включить информацию о свободной памяти
 
 msgctxt "#32263"
 msgid "Enable movie library information"
-msgstr ""
+msgstr "Включить информацию из медиатеки фильмов"
 
 msgctxt "#32264"
 msgid "Enable TV show library information"
-msgstr ""
+msgstr "Включить информацию из медиатеки ТВ-передач"
 
 msgctxt "#32265"
 msgid "Enable music library information"
-msgstr ""
+msgstr "Включить информацию из музыкальной медиатеки"
 
 msgctxt "#32266"
 msgid "Enable CPU temperature"
@@ -327,51 +327,51 @@ msgstr "Свободно памяти:"
 
 msgctxt "#32283"
 msgid "Total movies:"
-msgstr ""
+msgstr "Всего фильмов:"
 
 msgctxt "#32284"
 msgid "Watched movies:"
-msgstr ""
+msgstr "Просмотренных фильмов:"
 
 msgctxt "#32285"
 msgid "Unwatched movies:"
-msgstr ""
+msgstr "Непросмотренных фильмов:"
 
 msgctxt "#32286"
 msgid "Total TV shows:"
-msgstr ""
+msgstr "Всего ТВ-передач:"
 
 msgctxt "#32287"
 msgid "Total episodes:"
-msgstr ""
+msgstr "Всего серий:"
 
 msgctxt "#32288"
 msgid "Watched TV shows:"
-msgstr ""
+msgstr "Просмотренных ТВ-передач:"
 
 msgctxt "#32289"
 msgid "Watched episodes:"
-msgstr ""
+msgstr "Просмотренных серий:"
 
 msgctxt "#32290"
 msgid "Unwatched TV shows:"
-msgstr ""
+msgstr "Непросмотренных ТВ-передач:"
 
 msgctxt "#32291"
 msgid "Unwatched episodes:"
-msgstr ""
+msgstr "Непросмотренных серий:"
 
 msgctxt "#32292"
 msgid "Artists:"
-msgstr ""
+msgstr "Исполнителей:"
 
 msgctxt "#32293"
 msgid "Albums:"
-msgstr ""
+msgstr "Альбомов:"
 
 msgctxt "#32294"
 msgid "Songs:"
-msgstr ""
+msgstr "Песен:"
 
 msgctxt "#32295"
 msgid "CPU temperature:"
@@ -400,103 +400,103 @@ msgstr "Общее время работы:"
 # empty strings from id 32301 to 32309
 msgctxt "#32310"
 msgid "Choose hour color and opacity  - [COLOR $INFO[Skin.String(screensaver.digitalclock.hourcolor)]]($INFO[Skin.String(screensaver.digitalclock.hourcolor.name)])[/COLOR]"
-msgstr ""
+msgstr "Выберите цвет и непрозрачность часов — [COLOR $INFO[Skin.String(screensaver.digitalclock.hourcolor)]]($INFO[Skin.String(screensaver.digitalclock.hourcolor.name)])[/COLOR]"
 
 msgctxt "#32311"
 msgid "Random hour color"
-msgstr ""
+msgstr "Случайный цвет часов"
 
 msgctxt "#32312"
 msgid "Random hour opacity"
-msgstr ""
+msgstr "Случайная непрозрачность часов"
 
 # empty strings from id 32313 to 32319
 msgctxt "#32320"
 msgid "Choose colon color and opacity - [COLOR $INFO[Skin.String(screensaver.digitalclock.coloncolor)]]($INFO[Skin.String(screensaver.digitalclock.coloncolor.name)])[/COLOR]"
-msgstr ""
+msgstr "Выберите цвет и непрозрачность двоеточия — [COLOR $INFO[Skin.String(screensaver.digitalclock.coloncolor)]]($INFO[Skin.String(screensaver.digitalclock.coloncolor.name)])[/COLOR]"
 
 msgctxt "#32321"
 msgid "Random colon color"
-msgstr ""
+msgstr "Случайный цвет двоеточия"
 
 msgctxt "#32322"
 msgid "Random colon opacity"
-msgstr ""
+msgstr "Случайная непрозрачность двоеточия"
 
 # empty strings from id 32323 to 32329
 msgctxt "#32330"
 msgid "Choose minute color and opacity - [COLOR $INFO[Skin.String(screensaver.digitalclock.minutecolor)]]($INFO[Skin.String(screensaver.digitalclock.minutecolor.name)])[/COLOR]"
-msgstr ""
+msgstr "Выберите цвет и непрозрачность минут — [COLOR $INFO[Skin.String(screensaver.digitalclock.minutecolor)]]($INFO[Skin.String(screensaver.digitalclock.minutecolor.name)])[/COLOR]"
 
 msgctxt "#32331"
 msgid "Random minute color"
-msgstr ""
+msgstr "Случайный цвет минут"
 
 msgctxt "#32332"
 msgid "Random minute opacity"
-msgstr ""
+msgstr "Случайная непрозрачность минут"
 
 # empty strings from id 32333 to 32339
 msgctxt "#32340"
 msgid "Choose AM/PM color and opacity - [COLOR $INFO[Skin.String(screensaver.digitalclock.ampmcolor)]]($INFO[Skin.String(screensaver.digitalclock.ampmcolor.name)])[/COLOR]"
-msgstr ""
+msgstr "Выберите цвет и непрозрачность AM/PM — [COLOR $INFO[Skin.String(screensaver.digitalclock.ampmcolor)]]($INFO[Skin.String(screensaver.digitalclock.ampmcolor.name)])[/COLOR]"
 
 msgctxt "#32341"
 msgid "Random AM/PM color"
-msgstr ""
+msgstr "Случайный цвет AM/PM"
 
 msgctxt "#32342"
 msgid "Random AM/PM opacity"
-msgstr ""
+msgstr "Случайная непрозрачность AM/PM"
 
 # empty strings from id 32343 to 32349
 msgctxt "#32350"
 msgid "Choose date color and opacity - [COLOR $INFO[Skin.String(screensaver.digitalclock.datecolor)]]($INFO[Skin.String(screensaver.digitalclock.datecolor.name)])[/COLOR]"
-msgstr ""
+msgstr "Выберите цвет и непрозрачность даты — [COLOR $INFO[Skin.String(screensaver.digitalclock.datecolor)]]($INFO[Skin.String(screensaver.digitalclock.datecolor.name)])[/COLOR]"
 
 msgctxt "#32351"
 msgid "Random date color"
-msgstr ""
+msgstr "Случайный цвет даты"
 
 msgctxt "#32352"
 msgid "Random date opacity"
-msgstr ""
+msgstr "Случайная непрозрачность даты"
 
 # empty strings from id 32353 to 32359
 msgctxt "#32360"
 msgid "Choose additional information color and opacity - [COLOR $INFO[Skin.String(screensaver.digitalclock.informationcolor)]]($INFO[Skin.String(screensaver.digitalclock.informationcolor.name)])[/COLOR]"
-msgstr ""
+msgstr "Выберите цвет и непрозрачность дополнительной информации — [COLOR $INFO[Skin.String(screensaver.digitalclock.informationcolor)]]($INFO[Skin.String(screensaver.digitalclock.informationcolor.name)])[/COLOR]"
 
 msgctxt "#32361"
 msgid "Random additional information color"
-msgstr ""
+msgstr "Случайный цвет дополнительной информации"
 
 msgctxt "#32362"
 msgid "Random additional information opacity"
-msgstr ""
+msgstr "Случайная непрозрачность дополнительной информации"
 
 # empty strings from id 32363 to 32369
 msgctxt "#32370"
 msgid "Choose icon color and opacity - [COLOR $INFO[Skin.String(screensaver.digitalclock.iconcolor)]]($INFO[Skin.String(screensaver.digitalclock.iconcolor.name)])[/COLOR]"
-msgstr ""
+msgstr "Выберите цвет и непрозрачность иконок — [COLOR $INFO[Skin.String(screensaver.digitalclock.iconcolor)]]($INFO[Skin.String(screensaver.digitalclock.iconcolor.name)])[/COLOR]"
 
 msgctxt "#32371"
 msgid "Random icon color"
-msgstr ""
+msgstr "Случайный цвет иконок"
 
 msgctxt "#32372"
 msgid "Random icon opacity"
-msgstr ""
+msgstr "Случайная непрозрачность иконок"
 
 # empty strings from id 32373 to 32499
 msgctxt "#32500"
 msgid "Choose text shadow color and opacity - [COLOR $INFO[Skin.String(screensaver.digitalclock.shadowcolor)]]($INFO[Skin.String(screensaver.digitalclock.shadowcolor.name)])[/COLOR]"
-msgstr ""
+msgstr "Выберите цвет и непрозрачность тени текста — [COLOR $INFO[Skin.String(screensaver.digitalclock.shadowcolor)]]($INFO[Skin.String(screensaver.digitalclock.shadowcolor.name)])[/COLOR]"
 
 # empty strings from id 32501 to 32504
 msgctxt "#32505"
 msgid "Choose background image aspect ratio:"
-msgstr ""
+msgstr "Выберите соотношение сторон фонового изображения:"
 
 msgctxt "#32506"
 msgid "Fill the screen"
@@ -509,7 +509,7 @@ msgstr "Оригинальный размер"
 # empty strings from id 32508 to 32509
 msgctxt "#32510"
 msgid "Choose background"
-msgstr ""
+msgstr "Выберите фон"
 
 msgctxt "#32511"
 msgid "One color"
@@ -525,7 +525,7 @@ msgstr "Слайд-шоу"
 
 msgctxt "#32514"
 msgid "Skin Helper Backgrounds"
-msgstr ""
+msgstr "Фоны помощника обложек"
 
 msgctxt "#32515"
 msgid "Dim"
@@ -538,26 +538,26 @@ msgstr "Уровень яркости"
 # empty strings from id 32517 to 32519
 msgctxt "#32520"
 msgid "Choose background color - [COLOR $INFO[Skin.String(screensaver.digitalclock.backgroundcolor)]]($INFO[Skin.String(screensaver.digitalclock.backgroundcolor.name)])[/COLOR]"
-msgstr ""
+msgstr "Выберите цвет фона — [COLOR $INFO[Skin.String(screensaver.digitalclock.backgroundcolor)]]($INFO[Skin.String(screensaver.digitalclock.backgroundcolor.name)])[/COLOR]"
 
 # empty strings from id 32521 to 32529
 msgctxt "#32530"
 msgid "Choose image"
-msgstr ""
+msgstr "Выберите изображение"
 
 msgctxt "#32531"
 msgid "Warning! Having only one image on your screen can cause a burn in!"
-msgstr ""
+msgstr "Предупреждение! Наличие только одного изображения на экране может привести к выгоранию!"
 
 # empty strings from id 32532 to 32539
 msgctxt "#32540"
 msgid "Choose slideshow directory"
-msgstr ""
+msgstr "Выберите каталог для слайд-шоу"
 
 # empty strings from id 32541 to 32549
 msgctxt "#32550"
 msgid "Random images"
-msgstr ""
+msgstr "Случайные изображения"
 
 # empty strings from id 32551 to 32559
 msgctxt "#32560"
@@ -615,44 +615,44 @@ msgstr "10 мин"
 # empty strings from id 32573 to 32578
 msgctxt "#32579"
 msgid "Requires skin.helper.backgrounds!"
-msgstr ""
+msgstr "Требуется skin.helper.backgrounds!"
 
 msgctxt "#32580"
 msgid "Choose Skin Helper background"
-msgstr ""
+msgstr "Выберите фон помощника обложек"
 
 msgctxt "#32581"
 msgid "Movie random fanart"
-msgstr ""
+msgstr "Случайный фан-арт фильмов"
 
 msgctxt "#32582"
 msgid "TV show random fanart"
-msgstr ""
+msgstr "Случайный фан-арт ТВ-передач"
 
 msgctxt "#32583"
 msgid "Music artist random fanart"
-msgstr ""
+msgstr "Случайный фан-арт музыкальных исполнителей"
 
 msgctxt "#32584"
 msgid "Random fanart of all media types"
-msgstr ""
+msgstr "Случайный фан-арт всех типов медиа"
 
 # empty strings from id 32585 to 32599
 msgctxt "#32600"
 msgid "Element size increase (%)"
-msgstr ""
+msgstr "Увеличение размера элемента (%)"
 
 msgctxt "#32610"
 msgid "Log out"
-msgstr ""
+msgstr "Выйти"
 
 msgctxt "#32611"
 msgid "Stop now playing media"
-msgstr ""
+msgstr "Остановить воспроизведение медиа"
 
 msgctxt "#32612"
 msgid "Log out after (minutes)"
-msgstr ""
+msgstr "Выйти через (минут)"
 
 msgctxt "#32620"
 msgid "Enable RSS"
@@ -664,15 +664,15 @@ msgstr "RSS должен быть включен и правильно наст�
 
 msgctxt "#32630"
 msgid "Turn off screen via CEC"
-msgstr ""
+msgstr "Отключить экран через CEC"
 
 msgctxt "#32631"
 msgid "Stop now playing media"
-msgstr ""
+msgstr "Остановить воспроизведение медиа"
 
 msgctxt "#32632"
 msgid "Turn off screen via CEC after (minutes)"
-msgstr ""
+msgstr "Отключить экран через CEC через (минут)"
 
 #~ msgctxt "#32010"
 #~ msgid "Colors"
