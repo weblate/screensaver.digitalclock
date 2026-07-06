@@ -29,6 +29,7 @@
 			<screenshot>resources/screenshot-3.png</screenshot>
 		</assets>
 		<summary lang="bs_BA">Digitalni sat kao čuvar ekrana</summary>
+		<summary lang="cs_CZ">Spořič obrazovky Digitální hodiny</summary>
 		<summary lang="da_DK">Pauseskærm med digitalt ur</summary>
 		<summary lang="de_DE">Bildschirmschoner Digitaluhr</summary>
 		<summary lang="en_GB">Digital clock screensaver</summary>
@@ -40,6 +41,7 @@
 		<summary lang="sv_SE">Skärmsläckare med digital klocka</summary>
 		<summary lang="zh_CN">数字时钟屏幕保护程序</summary>
 		<description lang="bs_BA">Digitalni čuvar ekrana sa satom, datumom, informacijama o trenutnoj reprodukciji, informacijama o vremenu, slajdovima slika i nekoliko opcija.</description>
+		<description lang="cs_CZ">Spořič obrazovky s digitálními hodinami, datem, informacemi o právě přehrávaném obsahu, informacemi o počasí, prezentací obrázků a několika nastaveními.</description>
 		<description lang="da_DK">Pauseskærm med digitalt ur og dato, afspilningsinformation, vejrinformation, billeddiasshow og flere indstillinger.</description>
 		<description lang="de_DE">Bildschirmschoner mit Digitaluhr, Datum, Information über die aktuelle Wiedergabe, Wetter, Diashow und weitere Optionen.</description>
 		<description lang="en_GB">Digital clock screensaver with date, now playing information, weather information, image slideshow and several options.</description>
@@ -58,6 +60,7 @@
 		<description lang="tr_TR">Dijital saat ekran koruyucu, tarih ve saatin yanı sıra şimdi oynatılıyor bilgisi, hava durumu bilgisi, resim slayt gösterisi gibi çeşitli seçenekler sunar.</description>
 		<description lang="zh_CN">数字时钟屏幕保护程序，带有日期、当前播放信息、天气信息、图片幻灯片和多个选项。</description>
 		<disclaimer lang="bs_BA">Za greške, zahtjeve ili opšta pitanja posjetite temu o digitalnom satu kao čuvaru ekrana na Kodi forumu.</disclaimer>
+		<disclaimer lang="cs_CZ">Chyby, požadavky nebo obecné otázky řešte ve vlákně spořiče obrazovky Digitální hodiny na fóru Kodi.</disclaimer>
 		<disclaimer lang="da_DK">Ved fejl, anmodninger eller generelle spørgsmål, besøg tråden Pauseskærm med digital ur på Kodi-forummet.</disclaimer>
 		<disclaimer lang="de_DE">Für Fehler, Wünsche oder allgemeine Fragen den Thread „Digital clock screensaver“ im Kodi-Forum besuchen.</disclaimer>
 		<disclaimer lang="en_GB">For bugs, requests or general questions visit the Digital clock screensaver thread on the Kodi forum.</disclaimer>
